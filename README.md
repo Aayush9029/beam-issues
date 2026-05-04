@@ -1,9 +1,12 @@
-# Beam — Public Releases
+# beam is a vnc client for ipadOS, free forever.
 
-This repo hosts:
+i made it so i could access my macbook (heavy) from a café with while i'm on a ipad (light)
 
-- `appcast.xml` consumed by Sparkle in the [Beam macOS app](https://github.com/Aayush9029/beam) (private)
-- Release tags (`v1.0.x`) with downloadable signed/notarized DMGs
+<p><img width="2732" height="2048" alt="hero-optimized" src="https://github.com/user-attachments/assets/c04ac1bd-9173-46e1-b8c6-2c8b0c5551d4" /></p>
 
-Bug reports & feature requests for Beam are tracked here. The app source lives in
-the private upstream repo; releases are mirrored automatically by GitHub Actions.
+<img width="2732" height="2048" alt="work-optimized" src="https://github.com/user-attachments/assets/2ae6dcd1-e661-49c1-b2fc-09d92ec9c67c" />
+
+
+---
+
+Bug reports & feature requests for Beam are tracked here.
