@@ -3,6 +3,8 @@
 > i made it so i could access my macbook (which is heavy) from a café with while i'm on a ipad (which is light)
 >
 > bug reports & feature requests for Beam are tracked here
+> 
+> I'll add download link for iPad app here, but mac app should be in releases
 
 <div align="center">
   <h1>Beam</h1>
@@ -15,7 +17,8 @@
 ---
 
 
-<a href="https://apps.apple.com/app/apple-store/id6765949589" target="_blank"><img src="https://user-images.githubusercontent.com/43297314/167192056-015e7f19-d47c-4d80-9843-75946a882078.svg" alt="Download App" ></a>
+<!--<a href="https://apps.apple.com/app/apple-store/id6765949589" target="_blank"><img src="https://user-images.githubusercontent.com/43297314/167192056-015e7f19-d47c-4d80-9843-75946a882078.svg" alt="Download App" ></a>-->
+
 
 
 
