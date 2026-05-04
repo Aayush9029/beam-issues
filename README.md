@@ -1,10 +1,13 @@
 > [!NOTE]  
 > 
-> i made it so i could access my macbook (which is heavy) from a café with while i'm on a ipad (which is light)
+> i made it so i could access my macbook while i'm at a café, park or beach with my ipad 
 >
-> bug reports & feature requests for Beam are tracked here
+
+> [!WARNING]  
 > 
 > I'll add download link for iPad app here, but mac app should be in releases
+>
+> bug reports & feature requests for Beam are tracked here
 
 <div align="center">
   <h1>Beam</h1>
@@ -12,6 +15,8 @@
 <img width="180" alt="AppIcon" src="https://github.com/user-attachments/assets/f5b24d2a-18ab-4a00-b7de-d612162f1333" />
 
 *VNC client for iPad +  VNC server for mac*
+
+
 
 
 ---
