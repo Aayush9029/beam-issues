@@ -37,7 +37,8 @@ Then open **Beam** from your launcher, pick your Mac, and approve the code shown
 | Ctrl+Alt+1..5 | Window size presets |
 | Ctrl+Alt+F | Fullscreen |
 | Ctrl+Alt+S | Stats |
-| Ctrl+Alt+Q | Disconnect |
+| Ctrl+Alt+Q | Quit Beam |
+| Ctrl+Alt+D | Disconnect (back to the list of Macs) |
 
 <div align="center">
 
