@@ -6,15 +6,15 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.0</title>
-      <pubDate>Sun, 08 Nov 2026 15:57:00 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Version 1.1.1</title>
+      <pubDate>Tue, 10 Nov 2026 19:48:42 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Aayush9029/beam-issues/releases/download/v1.1.0/Beam-1.1.0.dmg"
-        sparkle:edSignature="tMhaTAYBJF0ZwgQ+vYOOjgfpLK1Bpi3gKQDe2GuyddN6L+8BGlsi7DSVCSEwmygevj/NuGqEXCbloBz3y9vHBQ=="
-        length="10886723"
+        url="https://github.com/Aayush9029/beam-issues/releases/download/v1.1.1/Beam-1.1.1.dmg"
+        sparkle:edSignature="1GbGlrgNL9Au3aeGPj/u7RpthfoQhsDQpHmumwAjQN6i1O1yqqLdX3MkNQejq67/rVdVw+C0kRg9lPpvRtCFDA=="
+        length="10903660"
         type="application/octet-stream"
       />
     </item>
